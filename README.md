@@ -1,5 +1,5 @@
 # marissa_projects
-An assortment of past schoolwork and side projects. The chances of all my miscellaneous ACME lab crap ever getting fully organized and put here are not great. I might work through all the labs again at some point, but that would go in its own repository.
+An assortment of past schoolwork and side projects. I didn't organize my ACME labs very well at the time so now I'm not sure which ones came from which class, and this is probably not all of them.
 
 My final project for CS 401R was self-scoped, but I didn't create my own dataset for it or anything else here. The pandas visualization lab was a group project during senior year of undergrad, and I can't remember at this point which part of it I was in charge of.
 
